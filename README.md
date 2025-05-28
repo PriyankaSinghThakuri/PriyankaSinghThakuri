@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href = "https://www.facebook.com/thakuri.priyanka.5/" target = "_blank"><img src = "https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=fff"></a>&nbsp;<a target = "_blank" href = "https://www.instagram.com/priyanka_singh_thakuri_/"><img src = "https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff"></a>&nbsp;<a target = "_blank" href = "https://twitter.com/Priyank37044768"><img src = "https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff"></a>&nbsp;<a target = "_blank" href = "https://www.linkedin.com/in/priyanka-singh-thakuri-91807b209/"><img src = "https://img.shields.io/badge/-Linkedln-0A66C2?logo=linkedLn&logoColor=fff"></a>
-- <a href = "https://priyankasinghthakuri.com.np">CLICK</a>&nbsp;To visit my website.
+<!---- <a href = "https://priyankasinghthakuri.com.np">CLICK</a>&nbsp;To visit my website.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
