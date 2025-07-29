@@ -35,14 +35,4 @@ Welcome to my GitHub! I'm Priyanka Singh Thakuri — a passionate developer from
 &nbsp;
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
 &nbsp;
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
-&nbsp;
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff">
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyankaSinghThakuri&count_private=true&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaSinghThakuri&layout=compact&theme=radical)
+<img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff">
